@@ -1,4 +1,3 @@
-## Put comments here that give an overall description of what your
 ## Below are two functions that are used to create a special object that... 
 ## stores a matrix's values and caches its inverse
 
